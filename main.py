@@ -13,7 +13,7 @@ run = True
 
 font = pg.font.Font(None, 80)
 
-with open('german_words.json', 'r') as file:
+with open('translations/english to german.json', 'r') as file:
 	words = json.load(file)
 
 
