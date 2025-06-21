@@ -9,8 +9,8 @@ First you need [python](https://www.python.org/downloads/) installed as well as 
 ```
 pip install pygame, rapidfuzz
 ```
-Then you go to main.py and run that script. If everything is setup correctly it should run.
-If you have any problems please feel free to open an issue and we will try to sort it as fast as possible.
+Then you go to main.py and run that script. If everything is set up correctly it should run.
+If you have any problems please feel free to open an issue, and we will try to sort it as fast as possible.
 
 ## Word rules ##
 
